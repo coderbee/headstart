@@ -1,3 +1,4 @@
 Steps : Deploying a  web application: 
 1) Productionizing models thread https://forums.fast.ai/t/productionizing-models-thread/28353/67 
 2) Hosting a simple web app on Crestle  https://forums.fast.ai/t/hosting-a-simple-web-application-on-crestle/12258
+3) AWS sagemaker docker image https://forums.fast.ai/t/productionizing-models-thread/28353/80?u=beecoder
