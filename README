@@ -1,7 +1,8 @@
 Steps : Deploying a  web application:
 AWS lambda https://forums.fast.ai/t/deployment-platform-aws-lambda/39845
-
+From zero to running lesson 1 notebook on AWS instance in 80 seconds - https://forums.fast.ai/t/from-zero-to-running-lesson-1-notebook-on-aws-instance-in-80-seconds/7184 
 1) Productionizing models thread https://forums.fast.ai/t/productionizing-models-thread/28353/67 
 2) Hosting a simple web app on Crestle  https://forums.fast.ai/t/hosting-a-simple-web-application-on-crestle/12258
 3) AWS sagemaker docker image https://forums.fast.ai/t/productionizing-models-thread/28353/80?u=beecoder
 4) Serverless Deployment on Azure Functions https://forums.fast.ai/t/serverless-deployment-on-azure-functions/41778
+
